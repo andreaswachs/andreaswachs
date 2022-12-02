@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @andreaswachs
-- 📖 I'm currently studying a bachelors degree in **software development** at the *IT University of Copenhagen*. I'm expected to graduate sometime in 2023.
-- 👀 I’m generally interested in anything related to *backend* development, but when technologies like *Vue JS* and material design CSS libraries can help, I kind of enjoy frontend stuff too.
+- 📖 I'm currently studying a bachelors degree in **software development** at the *IT University of Copenhagen*. I'm expecting to graduate in December 2023.
+- 👀 I’m generally interested in anything related to *backend* development, DevOps, micro services, Docker and Kubernetes.
 - 🌱 I’m currently working as a student software engineer at Motorola Solutions, working with functional programming and DevOps. I love it!
-- 📫 How to reach me: You can find me on LinkedIn [LinkedIn](https://www.linkedin.com/in/andreas-wachs/) or [Exercism](https://exercism.io/profiles/andreaswachs)
+- 🎓 I have created an organization to contain my school projects that I've created repositories for and links to the ones where I have contributed to here. You can find this organization by name [ahja-itu](https://github.com/ahja-itu/).
+- 📫 How to reach me: You can find me on LinkedIn [LinkedIn](https://www.linkedin.com/in/andreas-wachs/).
 
 <!---
 andreaswachs/andreaswachs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
