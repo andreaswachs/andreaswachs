@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaswachs&hide=ruby,javascript,html,css,scss,shell,java&langs_count=8" />
 
-- 👋 Hi, I’m @andreaswachs, platform engineer at [ZeroNorth](https://zeronorth.com/) in Copenhagen, Denmark.
+- 👋 Hi, I’m @andreaswachs, senior platform engineer at [Corti](https://www.corti.ai/) in Copenhagen, Denmark.
 - My professional interests cover general platform engineering/SRE/DevOps topics:
   - 🐳 Containers
   - ⛵ Kubernetes
